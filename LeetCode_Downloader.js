@@ -4,7 +4,7 @@
 // @version      2024-03-17
 // @description  Download Problem from LeetCode as html file
 // @author       Carlos
-// @match        https://leetcode.com/problems/*/description/*
+// @match        https://leetcode.com/problems/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leetcode.com
 // @grant        none
 // @run-at       document-start
